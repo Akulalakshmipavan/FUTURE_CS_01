@@ -79,21 +79,28 @@ http://demo.testfire.net
 - Risk: Low
 
 ## 📌 Conclusion
-The application contains several security misconfigurations that can be mitigated by implementing proper security practices.
+The application contains several security misconfigurations that can be mitigated by implementing proper security practices
 
-## 📎 Evidence
-Screenshots included in repository
+## 📸 Evidence
+All supporting screenshots and tool outputs are available in the `/evidence` folder.
+
 ---
 
-## 🧾 Evidence
-All screenshots and tool outputs are available in the `/evidence` folder.
+## 💡 Key Takeaways
+✔ Demonstrates real-world vulnerability assessment skills  
+✔ Focuses on ethical and non-intrusive security testing  
+✔ Presents findings in a business-friendly format  
 
 ---
 
 ## ⚠️ Disclaimer
-This assessment was conducted strictly in a **read-only and ethical manner** for educational purposes only.
+This assessment was conducted strictly in a **read-only and ethical manner**.  
+No exploitation or harmful activity was performed.  
+
+This project is for **educational purposes only**.
 
 ---
 
 ## 👨‍💻 Author
-Akula Lakshmi Pavan
+**Akula Lakshmi Pavan**  
+Cybersecurity & AI Enthusiast 🚀
