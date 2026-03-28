@@ -82,7 +82,7 @@ http://demo.testfire.net
 The application contains several security misconfigurations that can be mitigated by implementing proper security practices
 
 ## 📸 Evidence
-All supporting screenshots and tool outputs are available in the `/evidence` folder.
+All supporting screenshots and tool outputs are available in the ![Nmap](./evidence/nmap_scan_result.png)folder.
 
 ---
 
@@ -96,6 +96,13 @@ All supporting screenshots and tool outputs are available in the `/evidence` fol
 ## ⚠️ Disclaimer
 This assessment was conducted strictly in a **read-only and ethical manner**.  
 No exploitation or harmful activity was performed.  
+
+## 💡 Skills Demonstrated
+
+- Network Scanning
+- Vulnerability Analysis
+- Report Writing
+- Cybersecurity Fundamentals
 
 This project is for **educational purposes only**.
 
