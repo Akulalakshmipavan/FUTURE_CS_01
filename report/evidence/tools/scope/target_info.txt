@@ -1,0 +1,6 @@
+Target: http://demo.testfire.net
+Type: Demo Banking Application (Altoro Mutual)
+Scope: Read-only vulnerability assessment
+Method: Non-intrusive analysis (no exploitation)
+Tools Used: Nmap, OWASP ZAP (Passive), Browser DevTools
+Date: March 2026
