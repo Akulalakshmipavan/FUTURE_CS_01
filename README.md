@@ -82,7 +82,7 @@ http://demo.testfire.net
 The application contains several security misconfigurations that can be mitigated by implementing proper security practices
 
 ## 📸 Evidence
-All supporting screenshots and tool outputs are available in the ![Nmap](./evidence/nmap_scan_result.png)folder.
+All supporting screenshots and tool outputs are available in the ![Nmap](./evidence/EVIDENCE/nmap_scan.png)folder.
 
 ---
 
